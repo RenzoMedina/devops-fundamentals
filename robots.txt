@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://renzomedina.github.io/devops-fundamentals//sitemap.xml
