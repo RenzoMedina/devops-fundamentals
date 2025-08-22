@@ -1,6 +1,6 @@
 
 describe('template spec', () => {
   it('passes', () => {
-    cy.visit('http://localhost:1111/')
+    cy.visit('https://renzomedina.github.io/devops-fundamentals/')
   })
 })
