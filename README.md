@@ -26,3 +26,16 @@ docker-compose up
 docker compose watch
 ```
 
+# 🧪 Tests
+
+Correremos las pruebas con CyPress
+
+```bash
+npm install cypress --save-dev
+```
+luego abrimos CyPress Open
+```bash
+npx cypress open
+```
+
+
